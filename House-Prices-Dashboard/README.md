@@ -7,7 +7,9 @@
       <LI>LotArea</LI>
       <LI>Street</LI>
       <LI>Neighborhood</LI>
+      <LI>HouseAge</LI>
       <LI>TotalSF</LI>
+      <LI>TotalBaths</LI>
       <LI>SalePrice</LI>
     </UL>
   <LI>Used plotly.express to create:</LI>
