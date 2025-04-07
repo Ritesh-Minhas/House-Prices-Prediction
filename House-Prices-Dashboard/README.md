@@ -12,6 +12,7 @@
       <LI>TotalBaths</LI>
       <LI>SalePrice</LI>
     </UL>
+  
   <LI>Used plotly.express to create:</LI>
   <UL>
     <LI>Histogram</LI>
